@@ -1,1 +1,5 @@
+HEAD
 Hello, this is a message from my  cloned repository!
+
+Hello, this is a message from my cloned repository!
+ 17efa76 (Update greetings.txt and README.md)
